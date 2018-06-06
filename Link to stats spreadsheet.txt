@@ -1,0 +1,4 @@
+Link to stats used to compare the different algorithms:
+https://docs.google.com/spreadsheets/d/1YEt3Z2A2IXJHEsdewNgRzR7gDEKt1okoKTcrmRmV9zs/edit?usp=sharing
+
+You can add more data simply by putting the scores at the end of the game.
